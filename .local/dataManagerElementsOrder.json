@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_adv&Sequence_5",
+        "str_gender&Sequence_5",
+        "str_age&Sequence_5",
+        "str_email_reg&Sequence_5",
+        "str_phone_reg&Sequence_5",
+        "str_name_reg&Sequence_5",
+        "str_textReg&Sequence_5",
+        "str_pdf_txt&Sequence_5",
+        "list_messages&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
