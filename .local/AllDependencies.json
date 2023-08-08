@@ -21688,15 +21688,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\E6540\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Challenge3PdfMail",
       "projectName": "Challenge3PdfMail",
-      "projectPath": "C:\\Users\\E6540\\Documents\\UiPath\\Challenge3PdfMail\\.local",
-      "packagesPath": "C:\\Users\\E6540\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\E6540\\Documents\\UiPath\\Challenge3PdfMail\\.local"
+      "projectPath": "C:\\Users\\Dell\\Documents\\UiPath\\Challenge3PdfMail\\.local",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\UiPath\\Challenge3PdfMail\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -21732,7 +21732,7 @@
             "version": "[23.6.1-preview, 23.6.1-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\E6540\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Dell\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
